@@ -33,6 +33,7 @@ To be considered **strong**, a password should:
 ## 🚀 Run it locally
 
 pip install streamlit
+
 streamlit run app.py
 
 
