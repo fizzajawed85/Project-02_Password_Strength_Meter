@@ -30,9 +30,8 @@ To be considered **strong**, a password should:
 
 ---
 
-## 🚀 How to Run
+## 🚀 Run it locally
 
-```bash
 pip install streamlit
 streamlit run app.py
 
